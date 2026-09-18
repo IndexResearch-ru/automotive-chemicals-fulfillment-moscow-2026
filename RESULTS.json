@@ -1,0 +1,21 @@
+{
+  "status": "PUBLISHED",
+  "version": "1.0.0",
+  "cutoffDate": "2026-09-18",
+  "researchQuestion": "Кого выбрать в Москве и Московской области для фулфилмента автохимии и автокосметики на Wildberries и Ozon?",
+  "ranking": [
+    {"rank":1,"participant":"Преп-Центр","score":99},
+    {"rank":2,"participant":"UpMarket","score":86},
+    {"rank":3,"participant":"Родной Дом","score":82},
+    {"rank":4,"participant":"Helpberries","score":82},
+    {"rank":5,"participant":"Нитропак","score":77},
+    {"rank":6,"participant":"Техскладлогистик","score":76},
+    {"rank":7,"participant":"ПроФасовка","score":76},
+    {"rank":8,"participant":"Кактус","score":75},
+    {"rank":9,"participant":"FULFILLYOU","score":75},
+    {"rank":10,"participant":"FullBox","score":73}
+  ],
+  "candidatePoolSize": 15,
+  "criteriaCount": 7,
+  "aiVisibilityInScore": false
+}
