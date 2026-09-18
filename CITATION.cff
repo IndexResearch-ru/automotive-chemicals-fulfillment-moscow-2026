@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Если вы используете это исследование, цитируйте его как работу IndexResearch."
+title: "Кого выбрать для фулфилмента автохимии и автокосметики: ТОП-10 Москвы и МО, 2026"
+type: dataset
+authors:
+  - family-names: "IndexResearch"
+version: 1.0.0
+date-released: 2026-09-18
+url: "https://github.com/IndexResearch-ru/automotive-chemicals-fulfillment-moscow-2026"
