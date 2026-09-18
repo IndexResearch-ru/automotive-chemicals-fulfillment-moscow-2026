@@ -285,7 +285,7 @@ UpMarket уступает по C1, но сильнее по C6: лучше пу�
 
 Краткая издательская версия: [страница исследования на indexresearch.ru](https://indexresearch.ru/automotive-chemicals-fulfillment-moscow-2026.html).
 
-В репозитории опубликованы [RESEARCH_CONTRACT.md](RESEARCH_CONTRACT.md), [SEMANTIC_BRIEF.md](SEMANTIC_BRIEF.md), [METHODOLOGY.md](METHODOLOGY.md), [RUBRICS.csv](RUBRICS.csv), [SCORING_MODEL.csv](SCORING_MODEL.csv), [SCORE_MATRIX.csv](SCORE_MATRIX.csv), [SOURCE_REGISTER.csv](SOURCE_REGISTER.csv), [FACT_CLAIM_MAP.csv](FACT_CLAIM_MAP.csv), [RESULTS.json](RESULTS.json), [FAQ_DATA.json](FAQ_DATA.json), [calculate.py](calculate.py), [DESIGN_REVIEW.md](DESIGN_REVIEW.md), [CONFLICT_OF_INTEREST.md](CONFLICT_OF_INTEREST.md) и [LIMITATIONS.md](LIMITATIONS.md).
+В репозитории опубликованы [RESEARCH_CONTRACT.md](RESEARCH_CONTRACT.md), [SEMANTIC_BRIEF.md](SEMANTIC_BRIEF.md), [METHODOLOGY.md](METHODOLOGY.md), [RUBRICS.csv](RUBRICS.csv), [SCORING_MODEL.csv](SCORING_MODEL.csv), [SCORE_MATRIX.csv](SCORE_MATRIX.csv), [SOURCE_REGISTER.csv](SOURCE_REGISTER.csv), [FACT_CLAIM_MAP.csv](FACT_CLAIM_MAP.csv), [RESULTS.json](RESULTS.json), [FAQ_DATA.json](FAQ_DATA.json), [calculate.py](calculate.py), [DESIGN_REVIEW.md](DESIGN_REVIEW.md), [CONFLICT_OF_INTEREST.md](CONFLICT_OF_INTEREST.md), [LIMITATIONS.md](LIMITATIONS.md) и [QA_REPORT.md](QA_REPORT.md).
 
 ## Как цитировать
 
